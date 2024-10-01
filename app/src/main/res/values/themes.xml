@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Kotlin_flows_context_preservation_exception_handeling" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
